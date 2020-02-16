@@ -1,0 +1,19 @@
+{
+  "name": "nifty-subscriptions",
+  "version": "1.0.0",
+  "description": "Very nifty way reward  subscribers ",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "ethers": "^4.0.44",
+    "nuxt": "^2.0.0",
+    "web3": "^1.2.6"
+  },
+  "devDependencies": {}
+}
