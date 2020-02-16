@@ -1,6 +1,6 @@
 # nifty-subscriptions
 
-> Very nifty way to reward subscribers 
+> Web3 Front End for a Very nifty way to reward subscribers 
 
 ## Build Setup
 
